@@ -1,39 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Cover -->
+[![Cover](./.github/assets/capa.svg)](https://nextlevelweek.com)
 
-## Available Scripts
+<!-- Badges -->
+[![50+% TypeScript](https://img.shields.io/github/languages/top/guiribmedeiros/proffy-web?style=for-the-badge)](https://github.com/guiribmedeiros/proffy-web/search?l=typescript)
+[![License](https://img.shields.io/github/license/guiribmedeiros/proffy-web?style=for-the-badge)](./LICENSE.md)
+[![Open Issues](https://img.shields.io/github/issues/guiribmedeiros/proffy-web?style=for-the-badge)](https://github.com/guiribmedeiros/proffy-web/issues)
 
-In the project directory, you can run:
+## About Proffy
 
-### `npm start`
+Proffy is a platform that helps people find teachers for online classes efficiently. This project was developed for the brazilian **National Day of Education Professionals** during the [Next Level Week](https://nextlevelweek.com) 2.0 by [@rocketseat](https://github.com/rocketseat). Proffy takes the pain out studying online by connecting teachers with students, see more
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Proffy API](https://github.com/guiribmedeiros/proffy-api) 1.0.
+- [Proffy Mobile](https://github.com/guiribmedeiros/proffy-mobile) 1.0.
+- [1.0](https://www.figma.com/file/3Uw3FCIhWz02MuqMABb8tD/Proffy-Web) and [2.0](https://www.figma.com/file/tudGUehiyABC5VvfOOr6yO/Proffy-Web-2.0) designs are available at Figma.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Proffy Web is an open-sourced web app. It is written in [TypeScript](http://www.typescriptlang.org) and
+uses [React](https://reactjs.org/).
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+First, let’s make sure that your development environment is ready.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- If you don’t have **Node.js** installed, [install it from here](https://nodejs.org/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Then configure your development environment from the `.env.example` file and install the dependencies from your project’s `package.json` file by running the following command:
 
-### `npm run eject`
+```
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Finally, after installing the dependencies, the `start` script starts your React "development server" on port 3000.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+That’s it! :rocket:  
+If you have questions about Proffy Web, you can ask on [GitHub Issues](https://github.com/guiribmedeiros/proffy-web/issues).
