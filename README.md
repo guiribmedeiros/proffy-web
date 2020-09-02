@@ -1,5 +1,5 @@
 <!-- Cover -->
-[![Cover](./.github/assets/capa.svg)](https://nextlevelweek.com)
+[![Cover](./.github/assets/capa.svg)](https://github.com/guiribmedeiros/proffy-web)
 
 <!-- Badges -->
 [![50+% TypeScript](https://img.shields.io/github/languages/top/guiribmedeiros/proffy-web?style=for-the-badge)](https://github.com/guiribmedeiros/proffy-web/search?l=typescript)
@@ -13,6 +13,7 @@ Proffy is a platform that helps people find teachers for online classes efficien
 - [Proffy API](https://github.com/guiribmedeiros/proffy-api) 1.0.
 - [Proffy Mobile](https://github.com/guiribmedeiros/proffy-mobile) 1.0.
 - [1.0](https://www.figma.com/file/3Uw3FCIhWz02MuqMABb8tD/Proffy-Web) and [2.0](https://www.figma.com/file/tudGUehiyABC5VvfOOr6yO/Proffy-Web-2.0) designs are available at Figma.
+- Try it at a [Live Example](https://proffy-web.guiribmedeiros.io).
 
 Proffy Web is an open-sourced web app. It is written in [TypeScript](http://www.typescriptlang.org) and
 uses [React](https://reactjs.org/).
