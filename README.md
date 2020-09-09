@@ -8,7 +8,7 @@
 
 ## About Proffy
 
-Proffy is a platform that helps people find teachers for online classes efficiently. This project was developed for the brazilian **National Day of Education Professionals** during the [Next Level Week](https://nextlevelweek.com) 2.0 by [@rocketseat](https://github.com/rocketseat). Proffy takes the pain out studying online by connecting teachers with students, see more
+Proffy is a platform that helps people find teachers for online classes efficiently. This project was developed for the brazilian **National Day of Education Professionals** during the [Next Level Week](https://nextlevelweek.com) 2.0 by [@rocketseat](https://github.com/rocketseat). Proffy takes the pain out studying online by connecting teachers with students, see more:
 
 - [Proffy API](https://github.com/guiribmedeiros/proffy-api) 1.0.
 - [Proffy Mobile](https://github.com/guiribmedeiros/proffy-mobile) 1.0.
